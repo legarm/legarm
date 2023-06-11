@@ -6,9 +6,10 @@
  ```js
 const aboutMe = {
   name: "Luis Garcia",
-  age: "24",
+  age: "25",
   country: "Honduras",
   education: "Administrative Informatics at UNAH",
+  Occupation: "Software Architect",
   code: ['JavaScript', 'HTML', 'CSS', 'SQL Databases'],
   tools: ['ReactJS', 'Bootstrap', 'NodeJS', 'Express', 'Git/Github'],
   hobbies: ['I Like Learning', 'Play Videogames', 'Watch TV Series']
