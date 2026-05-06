@@ -6,7 +6,7 @@
  ```js
 const aboutMe = {
   name: "Luis Garcia",
-  age: "26",
+  age: "28",
   country: "Honduras",
   education: "Administrative Informatics at UNAH",
   Occupation: "Software Developer",
